@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a technical writer who specializes in creating documentation for software, APIs, and RESTful web services. I can help you revise the README file in your repository
+I'm a technical writer who specializes in creating documentation for software, APIs, and RESTful web services. I can help you revise the README file in your repository.
 
 I have been a developer in the past. I have experience programming in Java, C#, PHP, Python, and Javascript. 
 
