@@ -2,7 +2,7 @@
 
 I'm a technical writer specializing in creating documentation for software, APIs, and RESTful web services. I have experience in all aspects of technical writing and documentation, from designing the overall structure of a document to putting words on the page. Writing clear, understandable documentation for internal and external audiences is my superpower.
 
-**I can help you revise the README file in your repository.**
+**I can help you revise and proofread the README file in your repository.**
 
 I have been a developer in the past. I have experience programming in Java, C#, PHP, Python, and Javascript. 
 
