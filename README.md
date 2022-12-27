@@ -7,6 +7,9 @@ I'm a Software Engineer(Technical writer) specializing in creating documentation
 I have been a developer in the past. I have experience programming in Java, C#, PHP, Python, and Javascript. 
 
 
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issavejdani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issavejdani@gmail.com)
 
@@ -24,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am currently looking for a job in the EU.
