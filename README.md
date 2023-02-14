@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am currently looking for a job in the EU.
+### I am currently looking for a fulltime hybrid/remote job in the EU.
